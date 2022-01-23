@@ -1,4 +1,5 @@
 pub use libtetris;
+pub use arrayvec;
 
 pub use opening_book::{Book, MemoryBook};
 use serde::{Deserialize, Serialize};
